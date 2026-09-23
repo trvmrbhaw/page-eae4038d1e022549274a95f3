@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "63515300a933ecde15bfb9a0",
+  "owner": "trvmrbhaw",
+  "repo": "page-eae4038d1e022549274a95f3",
+  "title": "pokong",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eae4038d1e022549274a95f3",
+      "a": "pokong",
+      "b": "稳定全球clash加速器",
+      "entity": "pokong",
+      "brand": "pokong",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ffcbc22246122dc80d53fa1254b3111c16d9042443632e4d35cc381b695c6085",
+      "content": {
+        "primary_entity": "pokong",
+        "keyword1": "pokong",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "pokong 提供多个档位，按设备数量与流量需求选一档即可开始。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更稳",
+          "AI_DESCRIPTION": "，pokong 提供基础版、旗舰版与团队版三档订阅，月付与年付均可选择，年付价格更划算。旗舰版适合多设备与游戏加速场景，团队版面向多人协作与企业路由定制。",
+          "AI_FEATURES_INTRO": "从流量、设备数到线路类型，三个维度决定套餐选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按场景选档",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的订阅流程。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "pokong 提供多档订阅，覆盖个人、家庭与团队设备，支持 Clash 客户端配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐，月付年付可选",
+          "AI_HIGHLIGHT_2": "年付价格更划算",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型。",
+          "AI_STEP_TEXT_3": "依照客户端文档将订阅导入 Clash，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "pokong 多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合手机与平板等 3 台以内设备日常浏览；旗舰版覆盖 5 台设备并支持流媒体与游戏加速；团队版面向 20 台设备的多终端使用场景。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版与团队版已解锁原生流媒体，基础版提供基础流媒体解锁，具体清晰度取决于所选节点与本地网络。",
+          "AI_FAQ_ANSWER_3": "月付适合短期使用，年付价格更低。基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。",
+          "AI_FAQ_ANSWER_4": "先在 pokong 选择套餐并获取订阅地址，再按操作系统安装对应客户端，将订阅链接导入后更新节点即可。",
+          "AI_FAQ_ANSWER_5": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线，超出数量时同一时间只能保留对应台数连接。",
+          "AI_FAQ_INTRO": "套餐选择、订阅导入与设备限制。",
+          "AI_FAQ_QUESTION_1": "pokong 的套餐分别适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "pokong 能解锁流媒体吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在 pokong 完成订阅配置？",
+          "AI_FAQ_QUESTION_5": "pokong 同时可以在几台设备上使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1g437azy0a1ej.com",
+    "host": "xn--yfrw1g437azy0a1ej.com"
+  },
+  "file_hashes": {
+    "index.html": "7adf15be78fba0ac91104b968a0c91dfc6b3d7b95e2a0602225898c6bb74374d",
+    "sitemap.xml": "53d02853d0b704b74dfcace58b1a87f8d6c9ef5236a707ccf6bcd7feefac54d2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5ce0edf9fefa6e8e47c778c86857f8beb600f586ef0a8f310ce6406b04747118",
+    "robots.txt": "8b30a5d7e188d3ecf104535fffe593bcb29b6563a580c7c1b68ffd89d197c63a",
+    "45d3ae2964cb2af2a919702bf7ad93fb.txt": "73cb874ef373802124ea7f413e4b250f406da613d0f4b68e850acfe85140279d"
+  },
+  "revision": "81a2758e64017ec4f8399e045e557fe0cfbec7b3359808bbc3acb1a5d76d8ef8"
+}
